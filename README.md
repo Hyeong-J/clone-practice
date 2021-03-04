@@ -1,5 +1,9 @@
 # clone-practice
 
+branch practice repo
+
+## How to start practice
+
 1.클론을 합니다.
 
 2.fizzbuzz.py를 만듭니다.
