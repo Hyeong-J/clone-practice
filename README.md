@@ -15,3 +15,18 @@ branch practice repo
 5.fizzbuzz.py를 업데이트 합니다.(print('it works'))
 
 6.각 작업에 대해 commit을 합니다.(docs, feat)
+
+## What is fizzbuzz??
+
+While i goes up to 1~100,
+
+if i is times of 3: print 'fizz'
+
+if i is times of 5:print 'buzz'
+
+if i is times of 15:print 'fizzbuzz'
+
+else, print i
+
+
+
