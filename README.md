@@ -18,8 +18,12 @@ branch practice repo
 
 ## What is fizzbuzz??
 
-While i goes up to 1~100,
+~while i goes up to 1~100,~
 
+<!-- 
+	TODO: fizzbuzz- if min num of commit :4
+	브랜치를 만들고 갈아탄 뒤, 일을 하고 브랜치 위에서 push한 후, main 브랜치에 merge
+-->
 if i is times of 3: print 'fizz'
 
 if i is times of 5:print 'buzz'
